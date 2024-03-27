@@ -55,7 +55,7 @@ Material:
     m_Floats:
     - _EnableExternalAlpha: 0
     - _ExtrernalInfluence: 1
-    - _WindIntenisty: 0.11
+    - _WindIntenisty: 0.28
     - _WindScale: 0.65
     - _WindSpeed: 0.62
     m_Colors:
