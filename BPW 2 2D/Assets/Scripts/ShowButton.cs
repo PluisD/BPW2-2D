@@ -10,6 +10,11 @@ public class ShowButton : MonoBehaviour
  
     public string playerTag = "Player"; // Tag of the GameObject that triggers the image
 
+    private void Start()
+    {
+        customImage.enabled = false;
+    }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         // Check if the entering GameObject has the specified tag
