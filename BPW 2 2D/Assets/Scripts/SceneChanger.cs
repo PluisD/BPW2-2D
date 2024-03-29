@@ -18,6 +18,7 @@ public class SceneChanger : MonoBehaviour
 
     private bool fadeInTriggered = false; // Flag to track if fade-in is triggered
 
+
     private void Start()
     {
         // Ensure the image is initially hidden
